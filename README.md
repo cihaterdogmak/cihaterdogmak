@@ -69,11 +69,14 @@ Computer Engineering
 
 ## 📜 Certifications
 
-- Advanced Python
-- .NET 101 Certificate
-- Version Control with Git and GitHub
-- Introduction to Information Technologies
-- Renewable Energy Technologies (Photovoltaic Power Systems)
+- **Cloud Practitioner Essentials (AWS)**, June 2024
+- **Machine Learning Basics (AWS)**, June 2024
+- **Introduction to .NET 101 for University Students (Techcareer.net)**, May 2024
+- **Mentorink Success Certificate**, April 2024
+- **Advanced Python Programming from Scratch (BTK Academy)**, October 2023
+- **Version Control: Git and GitHub (BTK ICT)**, March 2022
+- **Introduction to Information Technologies (BTK ICT)**, September 2021
+- **Renewable Energy Technologies (Photovoltaic Power Systems)**, June 2019
 
 ## 🌐 Find me on the Web
 
