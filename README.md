@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Cihat Erdoğanmak!
+# 👋 Hi there, I'm Cihat Erdoğmak!
 
 I am a Computer Engineering student at İnönü University, passionate about developing my technical skills and enhancing my problem-solving abilities. My career goal is to specialize in backend technologies, and I am continuously learning and applying my knowledge in this field.
 
